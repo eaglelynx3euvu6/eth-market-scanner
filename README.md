@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/eaglelynx3euvu6/eth-market-scanner
 cd <your-repo>
 ```
 
